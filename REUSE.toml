@@ -1,0 +1,10 @@
+version = 1
+
+# Licensing is declared per asset path (REUSE specification 3.x).
+# Add one [[annotations]] block per asset or directory as new material arrives.
+
+[[annotations]]
+path = "audio/songs/pipeline-tighter/**"
+SPDX-FileCopyrightText = "2026 Nils Schimmelmann"
+# Lyrics: CC BY-SA 4.0. Recording (audio): all rights reserved, not licensed for reuse.
+SPDX-License-Identifier = "CC-BY-SA-4.0 AND LicenseRef-All-Rights-Reserved"
